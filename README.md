@@ -6,7 +6,7 @@ Class Library containing a GET Request method
 
 
 ## Installation
- ![DLLDownload](https://user-images.githubusercontent.com/92113985/156014578-a47e2f91-ec76-4150-a52a-91fd977abf6f.gif)
+![DLLDownload](https://user-images.githubusercontent.com/92113985/156014578-a47e2f91-ec76-4150-a52a-91fd977abf6f.gif)
 > Drag the .dll file into your project. The .xml file is *optional* and only includes comments **Recommended: Create a folder for your DLLs**
 
 ![DLLReference](https://user-images.githubusercontent.com/92113985/156016390-d9090967-d8f0-4a66-a206-5c1ff90b2340.gif)
@@ -15,6 +15,11 @@ Class Library containing a GET Request method
 
 ## Usage
 *Example code to demonstrate usage*
+![ImageOfProgram](https://user-images.githubusercontent.com/92113985/156050905-3ff73044-216d-4bd4-8460-593b97e324f5.png)
+
+
+
+*Reduces amount of code!*
 >![ImageAfter](https://user-images.githubusercontent.com/92113985/156015530-67d9f705-fb37-4a83-9e0b-d6067ccaa004.png)
 **Instead of**
 >![ImageBefore](https://user-images.githubusercontent.com/92113985/156015613-2740d904-3e7c-49ec-b3b0-5fa1e31dc5ef.png)
