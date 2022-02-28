@@ -7,7 +7,7 @@ Class Library containing a GET Request method
 
 ## Installation
  ![DLLDownload](https://user-images.githubusercontent.com/92113985/156014578-a47e2f91-ec76-4150-a52a-91fd977abf6f.gif)
-> Drag the .dll file into your project. The .xml file is *optional* and includes comments **Recommended: Create a folder for your DLLs**
+> Drag the .dll file into your project. The .xml file is *optional* and only includes comments **Recommended: Create a folder for your DLLs**
 
 ![DLLReference](https://user-images.githubusercontent.com/92113985/156016390-d9090967-d8f0-4a66-a206-5c1ff90b2340.gif)
 > Reference the .dll file in your project by right-clicking the project and adding a Project Reference. Thereafter browse after the .dll file.
