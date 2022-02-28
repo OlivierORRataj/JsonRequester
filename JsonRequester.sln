@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonRequester", "JsonRequester\JsonRequester.csproj", "{47A4596A-95BC-4A64-A809-AB5AB25C55E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A4596A-95BC-4A64-A809-AB5AB25C55E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A4596A-95BC-4A64-A809-AB5AB25C55E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A4596A-95BC-4A64-A809-AB5AB25C55E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A4596A-95BC-4A64-A809-AB5AB25C55E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5568E-F1E4-45F5-8EAE-B236E6050F0A}
+	EndGlobalSection
+EndGlobal
